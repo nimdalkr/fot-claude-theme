@@ -1,0 +1,12 @@
+{
+  "name": "fot-claude-theme",
+  "owner": { "name": "nimdalkr" },
+  "description": "FIVE OVER TWO(FOT) 디자인 킷 기반 Claude 앱 테마",
+  "plugins": [
+    {
+      "name": "fot-theme",
+      "source": "./",
+      "description": "FIVE OVER TWO (FOT) 디자인 킷 v1 기반 Claude 앱 테마: 블랙·웜화이트·레드, 우상단 FOT 심볼 배경"
+    }
+  ]
+}
